@@ -78,3 +78,4 @@ To stop the Docker containers when you're done working, use:
 ./vendor/bin/sail down
 ```
 This will stop and remove the containers, networks, and volumes associated with your application.
+
